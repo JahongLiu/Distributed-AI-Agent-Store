@@ -21,3 +21,15 @@ Built distributed AI Agent store system to iteratively explore AI Agent, scalabi
 **Phase 2.Containerization**: Docker
 
 **Phase 1.Three-Tier-like Architecture**: Django, Spring Boot, PostgreSQL, React
+
+## Phase 1 Enviroment
+Create Linux WorkStation Virtual Machine on Cloud:
+- Operating System: Linux (Ubuntu)
+- 4 CPU, 16GB RAM
+- Install:
+  - Node.js
+  - Python3
+  - Open JDK 21
+  - Maven
+  - PostgresSQL
+ 
