@@ -23,7 +23,7 @@ Built distributed AI Agent store system to iteratively explore AI Agent, scalabi
 **Phase 1.Three-Tier-like Architecture**: Django, Spring Boot, PostgreSQL, React
 
 ## Phase 1 Enviroment
-Create Linux WorkStation Virtual Machine on Cloud:
+<a href="https://cloud.google.com/resource-manager/docs/creating-managing-projects">Create Linux WorkStation Virtual Machine on Cloud:</a>
 - Operating System: Linux (Ubuntu)
 - 4 CPU, 16GB RAM
 - Install:
